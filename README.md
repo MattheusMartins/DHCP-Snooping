@@ -1,5 +1,5 @@
 # DHCP-Snooping
-[PT/BR]\
+[PT/BR]<br>
 Configurar Snooping de DHCP
 1) Confie apenas no Servidor Enterprrise DHCP
 2) Bloqueie o Servidor Rogue DHCP
@@ -8,7 +8,7 @@ Verificação:
 1) Use depurações para ver os resultados
 2) Prove que os pacotes DHCP não são permitidos do servidor Rogue
 
-[ENG]\
+[ENG]<br>
 Configure DHCP Snooping
 1) Only trust the Enterprrise DHCP Server
 2) Block the Rogue DHCP Server
